@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "json-query": "^2.2.2"
+  }
+}
