@@ -1,8 +1,6 @@
 #! /bin/bash
-declare -a protocols
 fname=$1
 output=$2
-protocols=("http")
 
 result=$(grep -Ev "^#|Status: (Up|Down)" $fname \
         | cut -d' ' -f2,4- \
