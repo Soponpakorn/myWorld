@@ -1,0 +1,6 @@
+{
+    "type": "connect",
+    "protocol": "tcp",
+    "numservices": "65535",
+    "services": "1-65535"
+}
