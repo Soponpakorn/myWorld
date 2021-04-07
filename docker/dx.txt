@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/bin/../share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.80 scan initiated Mon Apr  5 15:11:54 2021 as: nmap -v -A -p- -oG dg.txt -oX dx.txt -oN dl.txt csi.cmkl.ac.th -->
+<nmaprun scanner="nmap" args="nmap -v -A -p- -oG dg.txt -oX dx.txt -oN dl.txt csi.cmkl.ac.th" start="1617610314" startstr="Mon Apr  5 15:11:54 2021" version="7.80" xmloutputversion="1.04">
+<scaninfo type="connect" protocol="tcp" numservices="65535" services="1-65535"/>
+<verbose level="1"/>
+<debugging level="0"/>
+<taskbegin task="NSE" time="1617610316"/>
+<taskend task="NSE" time="1617610316"/>
+<taskbegin task="NSE" time="1617610316"/>
+<taskend task="NSE" time="1617610316"/>
+<taskbegin task="NSE" time="1617610316"/>
+<taskend task="NSE" time="1617610316"/>
+<taskbegin task="Ping Scan" time="1617610316"/>
+<taskend task="Ping Scan" time="1617610316" extrainfo="1 total hosts"/>
+<taskbegin task="Parallel DNS resolution of 1 host." time="1617610316"/>
+<taskend task="Parallel DNS resolution of 1 host." time="1617610319"/>
+<taskbegin task="Connect Scan" time="1617610319"/>
+<taskprogress task="Connect Scan" time="1617610350" percent="16.51" remaining="157" etc="1617610507"/>
+<taskprogress task="Connect Scan" time="1617610380" percent="16.75" remaining="304" etc="1617610683"/>

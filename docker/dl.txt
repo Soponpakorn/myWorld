@@ -1,0 +1,1 @@
+# Nmap 7.80 scan initiated Mon Apr  5 15:11:54 2021 as: nmap -v -A -p- -oG dg.txt -oX dx.txt -oN dl.txt csi.cmkl.ac.th
